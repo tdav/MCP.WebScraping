@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="plan1.md" />
+    <File Path="plan2.md" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/MultiWaveScraper.Agent/MultiWaveScraper.Agent.csproj" />
+    <Project Path="src/MultiWaveScraper.Core/MultiWaveScraper.Core.csproj" />
+    <Project Path="src/MultiWaveScraper.McpClient/MultiWaveScraper.McpClient.csproj" />
+    <Project Path="src/MultiWaveScraper.McpServer/MultiWaveScraper.McpServer.csproj" />
+    <Project Path="src/MultiWaveScraper.Tester/MultiWaveScraper.Tester.csproj" />
+  </Folder>
+</Solution>

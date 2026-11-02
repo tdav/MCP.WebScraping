@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# Runtime data (reports, job artifacts)
+data/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+*.DotSettings.user
+
+# Test / coverage
+TestResults/
+coverage/
+*.trx
+
+# Playwright
+playwright-report/
+test-results/
+
+# Logs
+*.log
